@@ -6,3 +6,5 @@ renovar.centralcnxg.xyz
 centralcnxg.xyz
 pagamento.samuknet.com.br
 pagaments.4gnet.xyz
+planos4gnet.com.br
+pagamento.planos4gnet.com.br
